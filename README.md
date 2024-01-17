@@ -11,3 +11,5 @@ Rügen ist wegen des Kreidefelsens bekannt.
 Ich wohne in der Nähe der Stadt.
 
 Die Reise war wirklich herrlich.
+
+Die Luft ist warm.
